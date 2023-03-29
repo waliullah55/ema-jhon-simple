@@ -12,3 +12,6 @@
     color: white;
     padding-left: 35px;
 }
+.header a:hover{
+    color: orangered;
+}
